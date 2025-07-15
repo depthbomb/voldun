@@ -1,2 +1,2 @@
 # voldun
-CLI World of Warcraft addon manager written in Kotlin
+**[WORK IN PROGRESS]** CLI World of Warcraft addon manager written in Kotlin
